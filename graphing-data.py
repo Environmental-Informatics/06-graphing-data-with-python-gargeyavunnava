@@ -13,7 +13,7 @@ and the second argument is the desired output pdf filename
 #import numpy to work with arrays
 import numpy as np
 
-#import plplot from matplotlib to plot graphs
+#import pyplot from matplotlib to plot graphs
 import matplotlib.pyplot as plt
 
 #import gridspec from matplotlib to organize subplots spacing and size
